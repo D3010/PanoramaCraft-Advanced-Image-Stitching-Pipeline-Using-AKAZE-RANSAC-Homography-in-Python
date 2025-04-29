@@ -1,4 +1,4 @@
-# PanoramaCraft: Advanced Image Stitching Pipeline Using AKAZE, RANSAC & Homography in Python
+# PanoramaCraft: Advanced Image Stitching Pipeline Using AKAZE, RANSAC & Homography
 
 ## 📌 Overview
 
